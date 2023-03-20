@@ -16,3 +16,4 @@
 </html>
 
 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
+https://www.yiiframework.com/doc/guide/2.0/ru/start-installation
